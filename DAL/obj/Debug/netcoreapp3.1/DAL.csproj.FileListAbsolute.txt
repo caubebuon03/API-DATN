@@ -1,0 +1,15 @@
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\Model.dll
+D:\API\WebAPI1\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\API\WebAPI1\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
